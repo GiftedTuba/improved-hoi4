@@ -276,7 +276,10 @@ USA_CSA = {
 	color_ui = rgb { 186 205 219 }
 }
 
-
+SOV_russia = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
+}
 
 HOL_benelux_unified = {
 	color = rgb { 255 128 0 }
