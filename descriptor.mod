@@ -4,4 +4,4 @@ tags={
 	"Fixes"
 }
 name="Improved Hoi4"
-supported_version="1.13.4"
+supported_version="1.13.*"
